@@ -1,13 +1,11 @@
-[🇺🇸 en](#git-notes)
-
-[🇪🇸 es](#notas-de-git)
+[🇺🇸 **en**](#git-notes) | [🇪🇸 **es**](#notas-de-git)
 
 # Git notes
 
 Welcome to this space where you're going to find notes, tips and tricks about git
 
 ## 📝 Notes
-soon
+- [Colorize Git Status](notes/colorize-git-status/colorize-git-status-EN.md)
 
 ## ✨ Tips
 soon
@@ -21,7 +19,7 @@ soon
 Bienvenidx a este espacio donde vas a encontrar notas, trucos y tips sobre git
 
 ## 📝 Notas
-muy pronto
+- [Agrega color al Git Status](notes/colorize-git-status/colorize-git-status-ES.md)
 
 ## ✨ Tips
 muy pronto
